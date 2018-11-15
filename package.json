@@ -1,0 +1,13 @@
+{
+  "name": "novad-moment8",
+  "version": "1.0.0",
+  "description": "dateformat into tz+8",
+  "main": "index.js",
+  "repository": "git@github.com:ndNovaDev/novad-moment8.git",
+  "author": "novadev",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "novad-iso-date": "^1.1.2"
+  }
+}
